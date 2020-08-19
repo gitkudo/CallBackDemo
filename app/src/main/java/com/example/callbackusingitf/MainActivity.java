@@ -8,6 +8,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private HusbandFragment mHusbandFragment;
     private WifeFragment mWifeFragment;
+    //Try hard them chut nua
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
